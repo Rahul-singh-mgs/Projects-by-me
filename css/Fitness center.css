@@ -1,0 +1,214 @@
+body { 
+	background-image: url(/img/background.jpg);
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+  }
+.mid{
+    
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+}
+.navbar{
+    display: inline-block;
+   }
+
+   .navbar li{
+    font-size: 20px;
+    display: inline-block;
+   }
+
+   .navbar li a{
+    padding: 34px 23px;
+    color:white;
+    text-decoration: none;
+   }
+   .navbar li a:hover, .navbar li a.active{
+    text-decoration: underline;
+    color: gray;
+   }
+
+
+
+   
+
+/* Global styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	background-color: #333;
+	color: #fff;
+}
+
+/* .logo h1 {
+	font-size: 2rem;
+	font-weight: bold;
+} */
+
+
+
+/* Hero section styles */
+.hero {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 300px;
+	background-image: url('hero.jpg');
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+}
+
+.hero h1 {
+	font-size: 3rem;
+	margin-bottom: 20px;
+}
+
+.hero p {
+	font-size: 1.5rem;
+	margin-bottom: 40px;
+}
+
+.button {
+	display: inline-block;
+	background-color: #fff;
+	color: #333;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color: #ddd;
+}
+
+/* About section styles */
+.about {
+	padding: 80px 20px;
+	background-color: #f2f2f2;
+	text-align: center;
+}
+
+.about h2 {
+	font-size: 2rem;
+	margin-bottom: 40px;
+}
+
+.about p {
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin-bottom: 40px;
+}
+
+/* Classes section styles */
+.classes {
+	padding: 80px 20px;
+	text-align: center;
+}
+
+.classes h2 {
+	color: white;
+	font-size: 2rem;
+	margin-bottom: 40px;
+}
+
+.class-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.class {
+	width: 300px;
+	margin: 20px;
+	border-radius: 5px;
+	overflow: hidden;
+	box-shadow: 0px 0px 10px #ddd;
+}
+
+.class img {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+}
+
+.class h3 {
+	color: white;
+	font-size: 1.5rem;
+	margin: 20px;
+}
+
+.class p {
+	color: white;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin: 0 20px 20px 20px;
+}
+
+/* Trainers section styles */
+.trainers {
+	background-image: url(/img/back1.jpg);
+	padding: 80px 20px;
+	text-align: center;
+}
+
+.trainers h2 {
+	color: white;
+	font-size: 2rem;
+	margin-bottom: 40px;
+}
+
+.trainer-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.trainer {
+	width: 300px;
+	margin: 20px;
+	border-radius: 5px;
+	overflow: hidden;
+	box-shadow: 0px 0px 10px #ddd;
+}
+
+.trainer img {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+}
+
+.trainer h3 {
+	color: white;
+	font-size: 1.5rem;
+	margin: 20px;
+}
+
+.trainer p {
+	color: white;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin: 0 20px 20px 20px;
+}
+
+
+
+
+
+
+

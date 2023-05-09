@@ -1,0 +1,49 @@
+ <div class="container_3">
+        <section class="section">
+            <h2>Our History</h2>
+            <p>At our gym, our mission is to provide a welcoming and inclusive environment that empowers individuals to
+                achieve their fitness goals and improve their overall health and wellness. We believe that fitness is
+                not just about physical strength, but also mental and emotional wellbeing, and we are committed to
+                promoting a holistic approach to health and fitness.
+
+                We strive to offer a wide range of equipment, classes, and services that cater to the diverse needs and
+                interests of our members. Our experienced and certified trainers are dedicated to helping each
+                individual reach their full potential, and we provide personalized training plans and nutrition advice
+                to ensure that our members achieve their goals safely and effectively.
+
+                Our gym is more than just a place to work out - it's a community of like-minded individuals who support
+                each other in their fitness journeys. We believe that by working together and encouraging each other, we
+                can achieve more than we ever could alone. We value respect, inclusivity, and diversity, and we are
+                committed to creating a supportive and empowering environment for all.
+
+                We are constantly striving to improve and innovate, and we are dedicated to staying up-to-date with the
+                latest trends and developments in the fitness industry. We believe in investing in our facilities,
+                equipment, and staff to ensure that we provide the highest quality fitness experience for our members.
+
+                At our gym, we are passionate about helping people achieve their fitness goals and improve their overall
+                health and wellbeing. We believe that everyone deserves to live a healthy, happy, and fulfilling life,
+                and we are committed to supporting our members on their journey towards optimal health and wellness.</p>
+        </section>
+        <section class="class_3">
+            <div class="class-container_3">
+                <h2>Our Clients</h2>
+                <div class="class_3">
+                    <img src="/img/clients/C1-removebg-preview.png" alt="">
+                    <h3>Mr. X</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia, quas.</p>
+                </div>
+                <div class="class_3">
+                    <img src="/img/clients/C3-removebg-preview.png" alt="">
+                    <h3>Mrs. X</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, repudiandae.</p>
+                </div>
+                <div class="class_3">
+                    <img src="/img/clients/C2-removebg-preview.png" alt="">
+                    <h3>Mr. Perfect</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, hic.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    </div>

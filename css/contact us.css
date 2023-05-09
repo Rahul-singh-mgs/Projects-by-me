@@ -1,0 +1,69 @@
+body { 
+	background-image: url(/img/contact.jpg);
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+  }
+.mid{
+    
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+}
+.navbar{
+    display: inline-block;
+   }
+
+   .navbar li{
+    font-size: 20px;
+    display: inline-block;
+   }
+
+   .navbar li a{
+    padding: 34px 23px;
+    color: white;
+    text-decoration: none;
+   }
+   .navbar li a:hover, .navbar li a.active{
+    text-decoration: underline;
+    color: gray;
+   }
+
+   /* Contact section styles */
+#contact {
+    color: white;
+    padding: 4rem;
+    text-align: center;
+}
+
+label {
+    display: block;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+button[type="submit"] {
+    background-color: #333;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+}
+
+button[type="submit"]:hover {
+    background-color: #fff;
+    color: #333;
+}

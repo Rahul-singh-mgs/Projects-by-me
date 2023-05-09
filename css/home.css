@@ -1,0 +1,116 @@
+
+  
+  /*css reset*/
+  
+   .mid{
+    
+    display: block;
+    width: 45%;
+    margin: 20px auto;
+    /* border: 2px solid orange; */
+
+   }
+   .navbar{
+    display: inline-block;
+   }
+
+   .navbar li{
+    font-size: 20px;
+    display: inline-block;
+   }
+
+   .navbar li a{
+    padding: 34px 23px;
+    color: white;
+    text-decoration: none;
+   }
+   .navbar li a:hover, .navbar li a.active{
+    text-decoration: underline;
+    color: gray;
+   }
+
+
+
+
+   /* new ccs */
+   /* Global styles */
+body { 
+  background-image: url(/img/sunset.jpg);
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Header styles */
+header {
+ height: 60vh;
+  /* background-image: url(/img/wallpaperflare.com_wallpaper\ \(1\).jpg); */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.cta-btn {
+  background-color:white;
+  border-radius: 25px;
+  color: #150764;
+  display: inline-block;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.cta-btn:hover {
+  background-color: #333;
+  color: white;
+}
+
+/* About section styles */
+#about {
+  /* background-color:aqua; */
+  padding: 4rem;
+  text-align: center;
+}
+#about p{
+  color: white;
+}
+
+h2 {
+  color: #fff;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+footer p{
+  color: aqua;
+}
+
+
+
+   
+  
+  
